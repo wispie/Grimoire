@@ -1,4 +1,4 @@
-# Grimoire-
+# Grimoire
 Current Version: 3.8+ PRO 1.7.8 (EoL patched)
 
 ## Description
