@@ -1,5 +1,5 @@
 # Grimoire
-Current Version: 3.8+ PRO 1.7.8 (EoL patched)
+Current Version: 3.8+ PRO 1.7.7 (EoL patched)
 
 ## Description
 The most popular AdventureQuest Worlds botting client.
